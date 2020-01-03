@@ -10,8 +10,16 @@ body {
 }
 
 img {
-    display: block;
+    display: border-box;
     margin: 0 auto;
     border-radius: 100%;
     border: 10px ridge gold;
+}
+
+#primary {
+    color: deepskyblue;
+}
+
+#secondary {
+    color: darkviolet;
 }
