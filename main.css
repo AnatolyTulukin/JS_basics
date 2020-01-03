@@ -3,12 +3,15 @@ html {
 }
 
 body {
-    width: 60%;
+    width: auto;
     margin: 0 auto;
     background-color: chartreuse;
     border: 5px solid black;
 }
 
 img {
+    display: block;
+    margin: 0 auto;
     border-radius: 100%;
+    border: 10px ridge gold;
 }
