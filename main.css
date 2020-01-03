@@ -1,25 +1,25 @@
 html {
-    background-color: blue;
+    background-color: #00539f;
 }
 
 body {
-    width: auto;
+    width: 90%;
     margin: 0 auto;
     background-color: chartreuse;
     border: 5px solid black;
 }
 
 img {
-    display: border-box;
+    display: block;
     margin: 0 auto;
     border-radius: 100%;
     border: 10px ridge gold;
 }
 
 #primary {
-    color: deepskyblue;
+    color: rgb(255, 0, 85);
 }
 
 #secondary {
-    color: darkviolet;
+    color: rgb(60, 211, 0);
 }
