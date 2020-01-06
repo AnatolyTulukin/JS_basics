@@ -3,13 +3,14 @@ html {
 }
 
 body {
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     background-color: chartreuse;
     border: 5px solid black;
 }
 
 img {
+    width: 400px;
     display: block;
     margin: 0 auto;
     border-radius: 100%;
